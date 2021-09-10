@@ -12,7 +12,9 @@ In my free time, I write well-respected blog posts at [dev.to](https://dev.to/so
 # Proficiencies
 * 5 years of experience in the web development space
     - With particular knowledge of core Web technologies (HTML, CSS, and JavaScript/TypeScript)
-    - Node.js and Deno development
+    - Back-end development with [Node.js](https://nodejs.org/en/) and [Deno](https://deno.land/)
+    - Has good grasp of lower-level networking concepts (routers, IP, TCP, etc.)
+    - Fairly deep knowledge of the internal workings of the various networking stacks and protocols in the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 * Moderate experience in systems-level programming with Rust and C/C++
 * Some experience in graphics programming with OpenGL
 * Can effectively use Git for distributed workflows
