@@ -29,6 +29,9 @@ My name is Basti Ortiz. I am an undergraduate student of the [University of the 
 * 🎨 3D art with [Blender](https://www.blender.org/)
 
 # Social Media and Contact Info
-* 🌱 [DEV.to @somedood](https://dev.to/somedood)
-* 👽 [Reddit u/Some_Dev_Dood](https://www.reddit.com/user/Some_Dev_Dood)
-* 🐦 [Twitter @BastiDood](https://twitter.com/BastiDood)
+
+**Platform** | **User**
+------------ | -----------------------------------------------------------:
+🌱 DEV.to    | [@somedood](https://dev.to/somedood)
+👽 Reddit    | [u/Some_Dev_Dood](https://www.reddit.com/user/Some_Dev_Dood)
+🐦 Twitter   | [@BastiDood](https://twitter.com/BastiDood)
