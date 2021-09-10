@@ -1,6 +1,14 @@
 # Hello there!
 My name is Basti Ortiz. I am an undergraduate student of the [University of the Philippines Diliman](https://up.edu.ph/) taking up a [Bachelor of Science in Computer Science](https://dcs.upd.edu.ph/).
 
+In my free time, I write well-respected blog posts at [dev.to](https://dev.to/somedood). In no particular order, the following posts below are among my most well-received articles:
+
+* [Programming is Hard](https://dev.to/somedood/programming-is-hard-2p87)
+* [🦀 Rust Reviewed: Is the hype justified? 🦀](https://dev.to/somedood/rust-reviewed-is-the-hype-justified-1pa1)
+* [18 Essential Videos That Fundamentally Shaped My Understanding of JavaScript](https://dev.to/somedood/18-essential-videos-that-fundamentally-shaped-my-understanding-of-javascript-3ib)
+* [The Proper Way to Write Async Constructors in JavaScript](https://dev.to/somedood/the-proper-way-to-write-async-constructors-in-javascript-1o8c)
+* [A Grammar-Based Naming Convention](https://dev.to/somedood/a-grammar-based-naming-convention-13jf)
+
 # Proficiencies
 * 5 years of experience in the web development space
     - With particular knowledge of core Web technologies (HTML, CSS, and JavaScript/TypeScript)
@@ -11,7 +19,7 @@ My name is Basti Ortiz. I am an undergraduate student of the [University of the 
 * Can speak and communicate clearly
     - Especially relevant in programming lectures I hold for my classmates
     - Thus enjoys working and learning with others
-* [Maintains a blog](https://dev.to/somedood) about various subjects in the aforementioned langauges and technologies
+* [Maintains a well-respected blog](https://dev.to/somedood) about various subjects in the aforementioned langauges and technologies
 
 # Languages
 * 🌐 HTML + CSS
