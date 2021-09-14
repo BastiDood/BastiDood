@@ -1,13 +1,17 @@
-# Hello there!
-My name is Basti Ortiz. I am an undergraduate student of the [University of the Philippines Diliman](https://up.edu.ph/) taking up a [Bachelor of Science in Computer Science](https://dcs.upd.edu.ph/).
-
-In my free time, I write well-respected blog posts at [dev.to](https://dev.to/somedood). In no particular order, the following posts below are among my most well-received articles:
+# Hello there! 👋
+My name is Basti Ortiz. I am an undergraduate student from the [University of the Philippines Diliman](https://up.edu.ph/) taking up a [Bachelor of Science in Computer Science](https://dcs.upd.edu.ph/). I am also a well-respected author who writes blog posts at [dev.to](https://dev.to/somedood) about various topics and technologies. I am most known for my JavaScript and Rust articles. In no particular order, the following articles below are among my most well-received:
 
 * [Programming is Hard](https://dev.to/somedood/programming-is-hard-2p87)
 * [🦀 Rust Reviewed: Is the hype justified? 🦀](https://dev.to/somedood/rust-reviewed-is-the-hype-justified-1pa1)
 * [18 Essential Videos That Fundamentally Shaped My Understanding of JavaScript](https://dev.to/somedood/18-essential-videos-that-fundamentally-shaped-my-understanding-of-javascript-3ib)
 * [The Proper Way to Write Async Constructors in JavaScript](https://dev.to/somedood/the-proper-way-to-write-async-constructors-in-javascript-1o8c)
 * [A Grammar-Based Naming Convention](https://dev.to/somedood/a-grammar-based-naming-convention-13jf)
+
+In my spare time, I always strive to learn something new. Perhaps this may be a new library, framework, technology, or design pattern. For languages such as Rust and C++, I go into rabbit holes about various aspects from each language so that I can better understand the "magic" behind the scenes, which in turn makes me a better programmer overall.
+
+I particularly enjoy back-end web development. I specialize in server-side applications, infrastructure design, and software architecture. To me, the best part of the job is the orchestration of various application components into one cohesive system. Nothing is more rewarding than seeing the whole greater than the sum of its parts—and nowhere is this better exemplified than in back-end development.
+
+I do not consider myself to be a "solo developer". I prefer collaborating and learning with others. If given the time and opportunity, I also host lectures for my colleagues, where I present best practices about programming. Thus, I strongly believe that collaboration—not competition—is the key to growth. Teamwork makes _everyone_ better in the long run.
 
 # Proficiencies
 * 5 years of experience in the web development space
