@@ -13,6 +13,8 @@ I particularly enjoy back-end web development. I specialize in server-side appli
 
 I do not consider myself to be a "solo developer". I prefer collaborating and learning with others. If given the time and opportunity, I also host lectures for my colleagues, where I present best practices about programming. Thus, I strongly believe that collaboration—not competition—is the key to growth. Teamwork makes _everyone_ better in the long run.
 
+> A rising tide lifts all boats.
+
 # Proficiencies
 * 5 years of experience in the web development space
     - With particular knowledge of core Web technologies (HTML, CSS, and JavaScript/TypeScript)
