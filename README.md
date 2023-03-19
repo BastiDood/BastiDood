@@ -30,7 +30,7 @@ I do not consider myself to be a "solo developer". I prefer collaborating and le
 * [Maintains a well-respected blog](https://dev.to/somedood) about various subjects in the aforementioned langauges and technologies
 
 # Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Some-Dood&theme=github_dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastiDood&theme=github_dark&layout=compact)
 * 🌐 HTML + CSS
 * 🟨 JavaScript + TypeScript
 * 🦀 Rust
