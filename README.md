@@ -16,7 +16,7 @@ I do not consider myself to be a "solo developer". I prefer collaborating and le
 > A rising tide lifts all boats.
 
 # Proficiencies
-* 5 years of experience in the web development space
+* 7 years of experience in the web development space
     - With particular knowledge of core Web technologies (HTML, CSS, and JavaScript/TypeScript)
     - Back-end development with [Node.js](https://nodejs.org/en/) and [Deno](https://deno.land/)
     - Has good grasp of lower-level networking concepts (routers, IP, TCP, etc.)
