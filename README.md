@@ -51,5 +51,4 @@ I do not consider myself to be a "solo developer". I prefer collaborating and le
 ------------ | ----------------------------------------------------------------------------------------------:
 🌱 DEV.to    | [@somedood](https://dev.to/somedood)
 🏢 LinkedIn  | [in/basti-ortiz](https://www.linkedin.com/in/basti-ortiz)
-👽 Reddit    | [u/Some_Dev_Dood](https://www.reddit.com/user/Some_Dev_Dood)
 🐦 Twitter   | [@BastiDood](https://twitter.com/BastiDood)
