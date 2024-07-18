@@ -1,5 +1,5 @@
 # Hello there! 👋
-My name is Basti Ortiz. I am an undergraduate student from the [University of the Philippines Diliman](https://up.edu.ph/) taking up a [Bachelor of Science in Computer Science](https://dcs.upd.edu.ph/). I am also a well-respected author who writes blog posts at [dev.to](https://dev.to/somedood) about various topics and technologies. I am most known for my JavaScript and Rust articles. In no particular order, the following articles below are among my most well-received:
+My name is Basti Ortiz. I am a _Summa Cum Laude_ graduate for my Bachelor of Science degree in Computer Science from the [University of the Philippines Diliman](https://dcs.upd.edu.ph/). I am also a well-respected author who writes blog posts at [dev.to](https://dev.to/somedood) about various topics and technologies. I am most known for my JavaScript and Rust articles. In no particular order, the following articles below are among my most well-received:
 
 * [Programming is Hard](https://dev.to/somedood/programming-is-hard-2p87)
 * [🦀 Rust Reviewed: Is the hype justified? 🦀](https://dev.to/somedood/rust-reviewed-is-the-hype-justified-1pa1)
