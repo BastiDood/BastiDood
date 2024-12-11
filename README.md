@@ -16,7 +16,7 @@ I do not consider myself to be a "solo developer". I prefer collaborating and le
 > A rising tide lifts all boats.
 
 # Proficiencies
-* 7 years of experience in the web development space
+* 8 years of experience in the web development space
     - With particular knowledge of core Web technologies (HTML, CSS, and JavaScript/TypeScript)
     - Back-end development with [Node.js](https://nodejs.org/en/) and [Deno](https://deno.land/)
     - Has good grasp of lower-level networking concepts (routers, IP, TCP, etc.)
@@ -47,8 +47,8 @@ I do not consider myself to be a "solo developer". I prefer collaborating and le
 
 # Social Media and Contact Info
 
-**Platform** | **User**
------------- | ----------------------------------------------------------------------------------------------:
-🌱 DEV.to    | [@somedood](https://dev.to/somedood)
-🏢 LinkedIn  | [in/basti-ortiz](https://www.linkedin.com/in/basti-ortiz)
-🐦 Twitter   | [@BastiDood](https://twitter.com/BastiDood)
+| **Platform** |                                                  **User** |
+| ------------ | --------------------------------------------------------: |
+| 🌱 DEV.to     |                      [@somedood](https://dev.to/somedood) |
+| 🏢 LinkedIn   | [in/basti-ortiz](https://www.linkedin.com/in/basti-ortiz) |
+| 🐦 Twitter    |               [@BastiDood](https://twitter.com/BastiDood) |
