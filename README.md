@@ -1,5 +1,12 @@
 # Hello there! 👋
-My name is Basti Ortiz. I am a _Summa Cum Laude_ graduate for my Bachelor of Science degree in Computer Science from the [University of the Philippines Diliman](https://dcs.upd.edu.ph/). I am also a well-respected author who writes blog posts at [dev.to](https://dev.to/somedood) about various topics and technologies. I am most known for my JavaScript and Rust articles. In no particular order, the following articles below are among my most well-received:
+My name is Basti Ortiz.
+
+* Full-stack Engineer @ [Verdn (YC W22)](https://verdn.com/)
+* Director for Engineering (AY 2023-2024) @ [UP Center for Student Innovations](https://up-csi.org/)
+* _Summa Cum Laude_ B.Sc. Computer Science @ [University of the Philippines - Diliman](https://upd.edu.ph/)
+* Published Author of ["Hotspotter: An Incentivized Crowdsensing System for WiFi and Cellular Network Coverage Visualization"](https://doi.org/10.1109/APCC62576.2024.10767933)
+
+I am also a well-respected author who writes blog posts at [dev.to](https://dev.to/somedood) about various topics and technologies. I am most known for my JavaScript and Rust articles. In no particular order, the following articles below are among my most well-received:
 
 * [Programming is Hard](https://dev.to/somedood/programming-is-hard-2p87)
 * [🦀 Rust Reviewed: Is the hype justified? 🦀](https://dev.to/somedood/rust-reviewed-is-the-hype-justified-1pa1)
