@@ -1,5 +1,5 @@
 # Hello there! 👋
-My name is Basti Ortiz.
+My name is [Basti Ortiz](https://bastidood.github.io/).
 
 * Full-stack Engineer @ [Verdn (YC W22)](https://verdn.com/)
 * Director for Engineering (AY 2023-2024) @ [UP Center for Student Innovations](https://up-csi.org/)
