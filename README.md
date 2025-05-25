@@ -1,5 +1,5 @@
 # Hello there! 👋
-My name is [Basti Ortiz](https://bastidood.github.io/).
+My name is [Basti Ortiz](https://bastidood.dev/).
 
 * Full-stack Engineer @ [Verdn (YC W22)](https://verdn.com/)
 * Director for Engineering (AY 2023-2024) @ [UP Center for Student Innovations](https://up-csi.org/)
@@ -56,6 +56,6 @@ I do not consider myself to be a "solo developer". I prefer collaborating and le
 
 | **Platform** |                                                  **User** |
 | ------------ | --------------------------------------------------------: |
-| 🌱 DEV.to     |                      [@somedood](https://dev.to/somedood) |
-| 🏢 LinkedIn   | [in/basti-ortiz](https://www.linkedin.com/in/basti-ortiz) |
-| 🐦 Twitter    |               [@BastiDood](https://twitter.com/BastiDood) |
+| 🌱 DEV.to    |                      [@somedood](https://dev.to/somedood) |
+| 🏢 LinkedIn  | [in/basti-ortiz](https://www.linkedin.com/in/basti-ortiz) |
+| 🐦 Twitter   |               [@BastiDood](https://twitter.com/BastiDood) |
