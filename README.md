@@ -2,8 +2,9 @@
 
 My name is [Basti Ortiz](https://bastidood.dev/).
 
-* Full-stack Engineer @ [Verdn (YC W22)](https://verdn.com/)
-* Director for Engineering (AY 2023-2024) @ [UP Center for Student Innovations](https://up-csi.org/)
+* AI Product Engineer (2025-Present) @ [Casper Studios](https://casperstudios.xyz/)
+* Full-Stack Engineer (2024-2025) @ [Verdn (YC W22)](https://verdn.com/)
+* Director for Engineering (2023-2024) @ [UP Center for Student Innovations](https://up-csi.org/)
 * _Summa Cum Laude_ B.Sc. Computer Science @ [University of the Philippines - Diliman](https://upd.edu.ph/)
 * Published Author of ["Hotspotter: An Incentivized Crowdsensing System for WiFi and Cellular Network Coverage Visualization"](https://doi.org/10.1109/APCC62576.2024.10767933)
 * Published Author of ["Formalizing Resource Ownership Semantics of Spinlocks with the Coq Proof Assistant"](https://www.atlantis-press.com/proceedings/wctp-24/126010274)
