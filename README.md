@@ -17,9 +17,11 @@ I am also a well-respected author who writes blog posts at [dev.to](https://dev.
 * [The Proper Way to Write Async Constructors in JavaScript](https://dev.to/somedood/the-proper-way-to-write-async-constructors-in-javascript-1o8c)
 * [A Grammar-Based Naming Convention](https://dev.to/somedood/a-grammar-based-naming-convention-13jf)
 
+## Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastiDood&theme=github_dark&layout=compact)
 
-# Social Media and Contact Info
+## Social Media and Contact Info
 
 | **Platform** |                                                  **User** |
 | ------------ | --------------------------------------------------------: |
