@@ -17,20 +17,14 @@ I am also a well-respected author who writes blog posts at [dev.to](https://dev.
 * [The Proper Way to Write Async Constructors in JavaScript](https://dev.to/somedood/the-proper-way-to-write-async-constructors-in-javascript-1o8c)
 * [A Grammar-Based Naming Convention](https://dev.to/somedood/a-grammar-based-naming-convention-13jf)
 
-# Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastiDood&theme=github_dark&layout=compact)
-
-* 🌐 HTML + CSS
-* 🟨 JavaScript + TypeScript
-* 🦀 Rust
-* 🛠 C/C++
-* 🐍 Python
 
 # Social Media and Contact Info
 
 | **Platform** |                                                  **User** |
 | ------------ | --------------------------------------------------------: |
+| 📧 Email     |         [ortiz@bastidood.dev](mailto:ortiz@bastidood.dev) |
 | 🌱 dev.to    |                      [@somedood](https://dev.to/somedood) |
 | 🏢 LinkedIn  | [in/basti-ortiz](https://www.linkedin.com/in/basti-ortiz) |
 | 🐦 Twitter   |               [@BastiDood](https://twitter.com/BastiDood) |
+| 🦋 Bluesky   |  [@bastidood.dev](https://bsky.app/profile/bastidood.dev) |
