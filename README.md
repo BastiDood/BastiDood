@@ -7,7 +7,7 @@ My name is [Basti Ortiz](https://bastidood.dev/).
 * Director for Engineering (2023-2024) @ [UP Center for Student Innovations](https://up-csi.org/)
 * _Summa Cum Laude_ B.Sc. Computer Science @ [University of the Philippines - Diliman](https://upd.edu.ph/)
 * Published Author of ["Hotspotter: An Incentivized Crowdsensing System for WiFi and Cellular Network Coverage Visualization"](https://doi.org/10.1109/APCC62576.2024.10767933)
-* Published Author of ["Formalizing Resource Ownership Semantics of Spinlocks with the Coq Proof Assistant"](https://www.atlantis-press.com/proceedings/wctp-24/126010274)
+* Published Author of ["Formalizing Resource Ownership Semantics of Spinlocks with the Coq Proof Assistant"](https://doi.org/10.2991/978-94-6463-684-0_11)
 
 I am also a well-respected author who writes blog posts at [dev.to](https://dev.to/somedood) about various topics and technologies. I am most known for my JavaScript and Rust articles. In no particular order, the following articles below are among my most well-received:
 
